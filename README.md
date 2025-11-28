@@ -1,4 +1,4 @@
-<p align="center">
+<https://github.com/ritwickdey/vscode-live-server-plus-plus.gitp align="center">
   <img width="128" height="128" src="https://raw.githubusercontent.com/ritwickdey/vscode-live-server-plus-plus/master/images/vscode-live-server-plus-plus.png">
 </p>
 <h3 align="center">Vscode Live Server++ (BETA) </h3>
